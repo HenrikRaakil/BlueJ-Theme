@@ -10,7 +10,7 @@
     -fx-fill: white;
 }
 .terminal-input {
-    -fx-fill: aquamarine;
+    -fx-fill: #00FFFF;
 }
 .terminal-method-record {
     -fx-fill: orangered;
@@ -35,5 +35,5 @@
 
 /* Slightly darker than white to make input field stand out: */
 .terminal, .terminal-error {
-    -fx-background-color: #1D1D2B;
+    -fx-background-color: #14141c;
 }
